@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Erron Intila</h1>
-<p align="center"><i>A software developer who loves design, technology, and movies.</i></p>
+<p align="center"><i>Building digital products, brands, and experiences.</i></p>
 <br/>
 
 ⚡ Preferred Environment: 
