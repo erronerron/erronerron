@@ -1,48 +1,41 @@
-<h1 align="center">Hi there! I'm Erron Intila</h1>
-<p align="center"><i>Building digital products, brands, and experiences.</i></p>
-<br/>
+# Erron Intila
+<a href="https://www.github.com/erronerron" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="mailto:erronintila@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/erronintila" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="https://twitter.com/syntaxerron_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
-⚡ Preferred Environment: 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <br/>
-💡 I’m currently learning Test-Driven Development with Laravel and Next.js <br/>
-😄 Fun fact: I am passionate tea drinker and I love playing chess. <br/>
+## 👋 Hi there
+I'm a web developer based in the Philippines with 3+ years of experience focused in providing quality assistance in the development, implementation, and management of technology-based solutions.
 
-### Languages
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=erronerron&theme=default&color=blue&style=flat&label=Profile+Views)
 
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+## About me
+🎓&nbsp;Graduated in **Bachelor of Science in Information Technology at STI College**
+<br/>🌱&nbsp;Learning about **Web development and competitive programming**
+<br/>💡&nbsp;I'm interested about **Computer Science, Chess, and SciFi Films**
+<br/>😄&nbsp;Pronouns **He/His**
+<br/>⚡&nbsp;Fun fact **I'm passionate tea drinker**
+<br/>📫&nbsp;Reach me [erronintila@gmail.com](mailto:erronintila@gmail.com)
+<br/>🖥&nbsp; See my portfolio at [www.syntaxerron.dev](www.syntaxerron.dev)
 
-### Platforms
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux-Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
+## Tech Stack
+<img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="docker Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel" alt="laravel Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql" alt="mysql Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Vuejs-05122A?style=flat&logo=vuedotjs" alt="vuejs Badge" height="25">&nbsp;
 
-### Storage
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Education
-Bachelor of Science in Information Technology (STI College)
-
-## Connect with me
-<a href="https://mail.google.com/a?view=cm&fs=1&to=erronintila@gmail.com" target="_blank">![Google Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
-<a href="https://linkedin.com/in/erron-intila-621a84171" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/syntaxerron_" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)</a>
-
-
+## GitHub Analytics
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erronerron&theme=default&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erronerron&theme=default&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erronerron&theme=default">
+</div>
