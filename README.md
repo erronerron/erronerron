@@ -15,7 +15,7 @@ I'm a web developer based in the Philippines with 3+ years of experience focused
 <br/>😄&nbsp;Pronouns **He/His**
 <br/>⚡&nbsp;Fun fact **I'm passionate tea drinker**
 <br/>📫&nbsp;Reach me [erronintila@gmail.com](mailto:erronintila@gmail.com)
-<br/>🖥&nbsp; See my portfolio at <a href="www.syntaxerron.dev" target="_blank">syntaxerron.dev</a>
+<br/>🖥&nbsp; See my portfolio at <a href="https://www.syntaxerron.dev" target="_blank">syntaxerron.dev</a>
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
