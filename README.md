@@ -1,5 +1,4 @@
 # Erron Intila
-<a href="https://www.github.com/erronerron" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
 <a href="mailto:erronintila@gmail.com@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/erronintila" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="https://twitter.com/syntaxerron_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
@@ -16,7 +15,7 @@ I'm a web developer based in the Philippines with 3+ years of experience focused
 <br/>😄&nbsp;Pronouns **He/His**
 <br/>⚡&nbsp;Fun fact **I'm passionate tea drinker**
 <br/>📫&nbsp;Reach me [erronintila@gmail.com](mailto:erronintila@gmail.com)
-<br/>🖥&nbsp; See my portfolio at [www.syntaxerron.dev](www.syntaxerron.dev)
+<br/>🖥&nbsp; See my portfolio at <a href="www.syntaxerron.dev" target="_blank">syntaxerron.dev</a>
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
